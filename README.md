@@ -35,6 +35,7 @@ Program tersebut merupakan program dari go yaitu mengambil input dari pengguna b
 Soal 2b
 
 No.1 
+
 Program tersebut merupakan program dari go yaitu melakukan lima kali percobaan dengan menerima input berupa empat nama bunga (atau warna bunga) dari pengguna pada setiap percobaan. Program kemudian memeriksa apakah ada perbedaan antara input yang diberikan dengan set warna tertentu (merah, kuning, hijau, ungu) selama kelima percobaan. Program ini menggunakan perulangan (loop) for i := 1; i <= 5; i++ untuk melakukan lima percobaan. Output dari kode program ini  adalah ketika semua percobaan sesuai dengan urutan warna yang diharapkan (merah, kuning, hijau, ungu), maka BERHASIL : true, tetapi  jika ada satu atau lebih percobaan yang berbeda, maka BERHASIL : false.
 
 No.2
